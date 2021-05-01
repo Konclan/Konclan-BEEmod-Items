@@ -1,0 +1,200 @@
+versioninfo
+{
+	"editorversion" "400"
+	"editorbuild" "8419"
+	"mapversion" "15"
+	"formatversion" "100"
+	"prefab" "0"
+}
+visgroups
+{
+}
+viewsettings
+{
+	"bSnapToGrid" "1"
+	"bShowGrid" "1"
+	"bShowLogicalGrid" "0"
+	"nGridSpacing" "32"
+	"bShow3DGrid" "0"
+}
+world
+{
+	"id" "1"
+	"mapversion" "15"
+	"classname" "worldspawn"
+	"detailmaterial" "detail/detailsprites"
+	"detailvbsp" "detail.vbsp"
+	"maxblobcount" "250"
+	"maxpropscreenwidth" "-1"
+	"skyname" "sky_black_nofog"
+}
+entity
+{
+	"id" "87"
+	"classname" "bee2_template_colorpicker"
+	"angles" "-90 0 0"
+	"grid_snap" "0"
+	"priority" "0"
+	"remove_brush" "0"
+	"targetname" "pick1"
+	"use_pattern" "0"
+	"origin" "0 -48 -64"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "128"
+	"classname" "bee2_template_colorpicker"
+	"angles" "-90 0 0"
+	"grid_snap" "0"
+	"priority" "0"
+	"remove_brush" "0"
+	"targetname" "pick2"
+	"use_pattern" "0"
+	"origin" "0 -16 -64"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "140"
+	"classname" "bee2_template_colorpicker"
+	"angles" "-90 0 0"
+	"grid_snap" "0"
+	"priority" "0"
+	"remove_brush" "0"
+	"targetname" "pick3"
+	"use_pattern" "0"
+	"origin" "0 16 -64"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "152"
+	"classname" "bee2_template_colorpicker"
+	"angles" "-90 0 0"
+	"grid_snap" "0"
+	"priority" "0"
+	"remove_brush" "0"
+	"targetname" "pick4"
+	"use_pattern" "0"
+	"origin" "0 48 -64"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "22"
+	"classname" "bee2_template_conf"
+	"detail_auto_visgroup" "0"
+	"discard_brushes" "0"
+	"is_scaling" "0"
+	"temp_type" "default"
+	"template_id" "BEE2_PROTRUDING_LIGHT_TILE"
+	"origin" "0 0 16"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "2"
+	"classname" "bee2_template_tilesetter"
+	"angles" "0 0 0"
+	"color" "match"
+	"color_picker" "pick3"
+	"skin" "1"
+	"origin" "0 16 -64"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "11"
+	"classname" "bee2_template_tilesetter"
+	"angles" "0 0 0"
+	"color" "match"
+	"color_picker" "pick4"
+	"skin" "1"
+	"origin" "0 48 -64"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "13"
+	"classname" "bee2_template_tilesetter"
+	"angles" "0 0 0"
+	"color" "match"
+	"color_picker" "pick2"
+	"skin" "1"
+	"origin" "0 -16 -64"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "17"
+	"classname" "bee2_template_tilesetter"
+	"angles" "0 0 0"
+	"color" "match"
+	"color_picker" "pick1"
+	"skin" "1"
+	"origin" "0 -48 -64"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+cameras
+{
+	"activecamera" "-1"
+}
+cordons
+{
+	"active" "0"
+}

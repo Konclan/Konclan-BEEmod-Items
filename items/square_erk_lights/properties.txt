@@ -1,0 +1,16 @@
+"Properties"
+	{
+	"Authors" "Konclan"
+	"Tags" "Geometry; Lighting"
+	"Description" "A Nintendo.Erk style square light which embeds into the wall"
+	"all_name" "SQUARE ERK LIGHTS"
+	"all_icon" "palette/rendered/clean/konclan/lights/square_erk_lights_group.png"
+	"ent_count" "2"
+	"Icon"
+		{
+		"all" "rendered/clean/konclan/lights/square_erk_lights_group.png"
+		"0" "rendered/clean/konclan/lights/square_erk_light_neutral.png"
+		"1" "rendered/clean/konclan/lights/square_erk_light_warm.png"
+		"2" "rendered/clean/konclan/lights/square_erk_light_cold.png"
+		}
+	}

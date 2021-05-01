@@ -1,0 +1,41 @@
+"ID" "KONCLAN_ITEMS"
+"Name" "Konclan's Custom Items"
+"Desc" "All of Konclan's items in one package."
+"Item"
+	{
+	"ID" "ITEM_STRIP_ERK_LIGHTS"
+	"Version"
+		{
+		"Styles"
+			{
+			"BEE2_CLEAN" "strip_erk_lights"
+			}
+		}
+	}
+"Item"
+	{
+	"ID" "ITEM_SQUARE_ERK_LIGHTS"
+	"Version"
+		{
+		"Styles"
+			{
+			"BEE2_CLEAN" "square_erk_lights"
+			}
+		}
+	}
+"Item"
+	{
+	"ID" "ITEM_PROTRUDING_LIGHTS"
+	"Version"
+		{
+		"Styles"
+			{
+			"BEE2_CLEAN" "protruding_lights"
+			}
+		}
+	}
+"BrushTemplate"
+	{
+	"ID"   "BEE2_PROTRUDING_LIGHT_TILE"
+	"File" "protruding_light.vmf"
+	}

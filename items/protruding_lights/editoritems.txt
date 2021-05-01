@@ -1,0 +1,133 @@
+"Item"
+	{
+	"Type" "ITEM_PROTRUDING_LIGHTS"
+	"ItemClass" "itemlightstrip"
+	"Editor"
+		{
+		"SubTypeProperty" "CubeType"
+		"SubType"
+			{
+			"Name" "Protruding Lightstrip Neutral"
+			"Model"
+				{
+				"ModelName" "bee2/konclan/lights/protruding_light_neutral.3ds"
+				}
+			"Palette"
+				{
+				"Tooltip" "PROTRUDING LIGHTSTRIP NEUTRAL"
+				"Image" "palette/rendered/clean/konclan/lights/protruding_light_neutral.png"
+				}
+			"Sounds"
+				{
+				"SOUND_CREATED" "P2Editor.PlaceOther"
+				"SOUND_EDITING_ACTIVATE" "P2Editor.ExpandOther"
+				"SOUND_EDITING_DEACTIVATE" "P2Editor.CollapseOther"
+				"SOUND_DELETED" "P2Editor.RemoveOther"
+				}
+			}
+		"SubType"
+			{
+			"Name" "Protruding Lightstrip Warm"
+			"Model"
+				{
+				"ModelName" "bee2/konclan/lights/protruding_light_warm.3ds"
+				}
+			"Palette"
+				{
+				"Tooltip" "PROTRUDING LIGHTSTRIP WARM"
+				"Image" "palette/rendered/clean/konclan/lights/protruding_light_warm.png"
+				}
+			"Sounds"
+				{
+				"SOUND_CREATED" "P2Editor.PlaceOther"
+				"SOUND_EDITING_ACTIVATE" "P2Editor.ExpandOther"
+				"SOUND_EDITING_DEACTIVATE" "P2Editor.CollapseOther"
+				"SOUND_DELETED" "P2Editor.RemoveOther"
+				}
+			}
+		"SubType"
+			{
+			"Name" "Protruding Lightstrip Cold"
+			"Model"
+				{
+				"ModelName" "bee2/konclan/lights/protruding_light_cold.3ds"
+				}
+			"Palette"
+				{
+				"Tooltip" "PROTRUDING LIGHTSTRIP COLD"
+				"Image" "palette/rendered/clean/konclan/lights/protruding_light_cold.png"
+				}
+			"Sounds"
+				{
+				"SOUND_CREATED" "P2Editor.PlaceOther"
+				"SOUND_EDITING_ACTIVATE" "P2Editor.ExpandOther"
+				"SOUND_EDITING_DEACTIVATE" "P2Editor.CollapseOther"
+				"SOUND_DELETED" "P2Editor.RemoveOther"
+				}
+			}
+		"SubType"
+			{
+			"Name" "Protruding Lightstrip Neutral"
+			"Model"
+				{
+				"ModelName" "bee2/konclan/lights/protruding_light_neutral.3ds"
+				}
+			//"Palette"
+			//	{
+			//	"Tooltip" "PROTRUDING LIGHTSTRIP NEUTRAL"
+			//	"Image" "palette/rendered/clean/konclan/lights/protruding_light_neutral.png"
+			//	}
+			"Sounds"
+				{
+				"SOUND_CREATED" "P2Editor.PlaceOther"
+				"SOUND_EDITING_ACTIVATE" "P2Editor.ExpandOther"
+				"SOUND_EDITING_DEACTIVATE" "P2Editor.CollapseOther"
+				"SOUND_DELETED" "P2Editor.RemoveOther"
+				}
+			}
+		"SubType"
+			{
+			"Name" "Protruding Lightstrip Neutral"
+			"Model"
+				{
+				"ModelName" "bee2/konclan/lights/protruding_light_neutral.3ds"
+				}
+			//"Palette"
+			//	{
+			//	"Tooltip" "PROTRUDING LIGHTSTRIP NEUTRAL"
+			//	"Image" "palette/rendered/clean/konclan/lights/protruding_light_neutral.png"
+			//	}
+			"Sounds"
+				{
+				"SOUND_CREATED" "P2Editor.PlaceOther"
+				"SOUND_EDITING_ACTIVATE" "P2Editor.ExpandOther"
+				"SOUND_EDITING_DEACTIVATE" "P2Editor.CollapseOther"
+				"SOUND_DELETED" "P2Editor.RemoveOther"
+				}
+			}
+		"MovementHandle" "HANDLE_8_POSITIONS"
+		}
+	"Properties"
+		{
+		"CubeType"
+			{
+			"DefaultValue"	"0"
+			"Index"			"1"
+			}
+		}
+	"Exporting"
+		{
+		"Instances"
+			{
+			"0"
+				{
+				"Name" "instances/bee2/clean/items/konclan/lights/protruding/protruding_light_common.vmf"
+				"EntityCount" "2"
+				"BrushCount" "5"
+				"BrushSideCount" "30"
+				}
+			}
+		"TargetName" "ls"
+		"Offset" "64 64 64"
+		}
+	}

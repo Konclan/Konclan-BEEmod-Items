@@ -1,0 +1,6 @@
+UnLitGeneric
+{
+$basetexture "models/props/konclan/lights/erk_light"
+$model 1
+$nodecal 1
+}

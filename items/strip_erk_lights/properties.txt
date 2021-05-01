@@ -1,0 +1,24 @@
+"Properties"
+	{
+	"Authors" "Konclan"
+	"Tags" "Geometry; Lighting"
+	"Description" 
+		{
+		"" "Nintendo.Erk styled lightstrips that come in 3 different colors. Use the timer property to change the shape of the lightstrip. Combine Pieces to make a longer light strip.  Note that right and left are reletive to the item, use the logo on the back of the strip for direction. You may need to experiement to figure out which one you need.  More pieces will be added in the future."
+		"" ""
+		"" "* 1s: Normal"
+		"" "* 2s: Left piece"
+		"" "* 3s: Middle piece"
+		"" "* 4s: Right piece"
+		}
+	"all_name" "STRIP ERK LIGHTS"
+	"all_icon" "palette/rendered/clean/konclan/lights/strip_erk_lights_group.png"
+	"ent_count" "2"
+	"Icon"
+		{
+		"all" "rendered/clean/konclan/lights/strip_erk_lights_group.png"
+		"0" "rendered/clean/konclan/lights/strip_erk_light_neutral.png"
+		"1" "rendered/clean/konclan/lights/strip_erk_light_warm.png"
+		"2" "rendered/clean/konclan/lights/strip_erk_light_cold.png"
+		}
+	}

@@ -1,0 +1,138 @@
+"Item"
+	{
+	"Type" "ITEM_STRIP_ERK_LIGHTS"
+	"ItemClass" "itemlightstrip"
+	"Editor"
+		{
+		"SubTypeProperty" "CubeType"
+		"SubType"
+			{
+			"Name" "Strip Erk Light Neutral"
+			"Model"
+				{
+				"ModelName" "bee2/konclan/lights/strip_erk_light_neutral.3ds"
+				}
+			"Palette"
+				{
+				"Tooltip" "STRIP ERK LIGHT NEUTRAL"
+				"Image" "palette/rendered/clean/konclan/lights/strip_erk_light_neutral.png"
+				}
+			"Sounds"
+				{
+				"SOUND_CREATED" "P2Editor.PlaceOther"
+				"SOUND_EDITING_ACTIVATE" "P2Editor.ExpandOther"
+				"SOUND_EDITING_DEACTIVATE" "P2Editor.CollapseOther"
+				"SOUND_DELETED" "P2Editor.RemoveOther"
+				}
+			}
+		"SubType"
+			{
+			"Name" "Strip Erk Light Warm"
+			"Model"
+				{
+				"ModelName" "bee2/konclan/lights/strip_erk_light_warm.3ds"
+				}
+			"Palette"
+				{
+				"Tooltip" "STRIP ERK LIGHT WARM"
+				"Image" "palette/rendered/clean/konclan/lights/strip_erk_light_warm.png"
+				}
+			"Sounds"
+				{
+				"SOUND_CREATED" "P2Editor.PlaceOther"
+				"SOUND_EDITING_ACTIVATE" "P2Editor.ExpandOther"
+				"SOUND_EDITING_DEACTIVATE" "P2Editor.CollapseOther"
+				"SOUND_DELETED" "P2Editor.RemoveOther"
+				}
+			}
+		"SubType"
+			{
+			"Name" "Strip Erk Light Cold"
+			"Model"
+				{
+				"ModelName" "bee2/konclan/lights/strip_erk_light_cold.3ds"
+				}
+			"Palette"
+				{
+				"Tooltip" "STRIP ERK LIGHT COLD"
+				"Image" "palette/rendered/clean/konclan/lights/strip_erk_light_cold.png"
+				}
+			"Sounds"
+				{
+				"SOUND_CREATED" "P2Editor.PlaceOther"
+				"SOUND_EDITING_ACTIVATE" "P2Editor.ExpandOther"
+				"SOUND_EDITING_DEACTIVATE" "P2Editor.CollapseOther"
+				"SOUND_DELETED" "P2Editor.RemoveOther"
+				}
+			}
+		"SubType"
+			{
+			"Name" "Strip Erk Light Neutral"
+			"Model"
+				{
+				"ModelName" "bee2/konclan/lights/strip_erk_light_neutral.3ds"
+				}
+			//"Palette"
+			//	{
+			//	"Tooltip" "STRIP ERK LIGHT NEUTRAL"
+			//	"Image" "palette/rendered/clean/konclan/lights/strip_erk_light_neutral.png"
+			//	}
+			"Sounds"
+				{
+				"SOUND_CREATED" "P2Editor.PlaceOther"
+				"SOUND_EDITING_ACTIVATE" "P2Editor.ExpandOther"
+				"SOUND_EDITING_DEACTIVATE" "P2Editor.CollapseOther"
+				"SOUND_DELETED" "P2Editor.RemoveOther"
+				}
+			}
+		"SubType"
+			{
+			"Name" "Strip Erk Light Neutral"
+			"Model"
+				{
+				"ModelName" "bee2/konclan/lights/strip_erk_light_neutral.3ds"
+				}
+			//"Palette"
+			//	{
+			//	"Tooltip" "STRIP ERK LIGHT NEUTRAL"
+			//	"Image" "palette/rendered/clean/konclan/lights/strip_erk_light_neutral.png"
+			//	}
+			"Sounds"
+				{
+				"SOUND_CREATED" "P2Editor.PlaceOther"
+				"SOUND_EDITING_ACTIVATE" "P2Editor.ExpandOther"
+				"SOUND_EDITING_DEACTIVATE" "P2Editor.CollapseOther"
+				"SOUND_DELETED" "P2Editor.RemoveOther"
+				}
+			}
+		"MovementHandle" "HANDLE_8_POSITIONS"
+		}
+	"Properties"
+		{
+		"CubeType"
+			{
+			"DefaultValue"	"0"
+			"Index"			"1"
+			}
+		"TimerDelay"
+			{
+			"DefaultValue"	"1"
+			"Index"			"2"
+			}
+		}
+	"Exporting"
+		{
+		"Instances"
+			{
+			"0"
+				{
+				"Name" "instances/BEE2/clean/items/konclan/lights/erk/strip_erk_light_common.vmf"
+				"EntityCount" "2"
+				"BrushCount" "5"
+				"BrushSideCount" "30"
+				}
+			}
+		"TargetName" "stlight"
+		"Offset" "64 64 64"
+		}
+	}
