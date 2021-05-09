@@ -1,6 +1,8 @@
 "ID" "KONCLAN_ITEMS"
 "Name" "Konclan's Custom Items"
 "Desc" "All of Konclan's items in one package."
+
+// Lights
 "Item"
 	{
 	"ID" "ITEM_STRIP_ERK_LIGHTS"
@@ -39,3 +41,21 @@
 	"ID"   "BEE2_PROTRUDING_LIGHT_TILE"
 	"File" "protruding_light.vmf"
 	}
+
+// Vertical Doors
+"Item"
+{
+	"ID" "ITEM_VERT_DOOR"
+	"Version"
+	{
+		"Styles"
+		{
+			"BEE2_CLEAN" "vert_door"
+		}
+	}
+}
+"BrushTemplate"
+{
+    "ID" "TEMP_KONCLAN_VERT_DOOR_CLEAN"
+    "File" "vert_door.vmf"
+}

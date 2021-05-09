@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+$baseTexture "models/props/konclan/vert_door/vert_door_01b"
+
+$model 1
+$selfillum 1
+}

@@ -1,0 +1,18 @@
+"Properties"
+{
+	"Authors" "Konclan"
+	"Tags" "Geometry"
+	"Description" 
+	{
+		"" "Door that moves into the block it is placed on."
+		"" ""
+		"" "* Will **fizzle objects** and **kill players** in the door's path by default."
+		"" "* **Start Enabled** enables the triggers to fizzle objects and kill players."
+		"" "* **Start Open** makes the door start in the block. Checked by default."
+	}
+	"ent_count" "2"
+	"Icon"
+	{
+		"0" "konclan/vertical_door.png"
+	}
+}
