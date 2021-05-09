@@ -4,7 +4,7 @@
 	"Tags" "Geometry; Lighting"
 	"Description" 
 		{
-		"" "Lightstrips that protrude out of the wall."
+		"" "Lights that protrude out of the wall."
 		"" ""
 		"" "* **Warning** Don't place facing into a wall, effects can be undesired."
 		}

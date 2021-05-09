@@ -4,7 +4,7 @@
 	"Tags" "Geometry; Lighting"
 	"Description" 
 		{
-		"" "Nintendo.Erk styled lightstrips that come in 3 different colors. Use the timer property to change the shape of the lightstrip. Combine Pieces to make a longer light strip.  Note that right and left are reletive to the item, use the logo on the back of the strip for direction. You may need to experiement to figure out which one you need.  More pieces will be added in the future."
+		"" "Nintendo.Erk styled lightstrips that come in 3 different colors. Use the timer property to change the shape of the lightstrip. Combine Pieces to make a longer light strip.  Note that right and left are reletive to the item, use the arrow on the strip for direction. You may need to experiement to figure out which one you need."
 		"" ""
 		"" "* 1s: Normal"
 		"" "* 2s: Left piece"
