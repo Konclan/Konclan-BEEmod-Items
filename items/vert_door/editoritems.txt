@@ -3,6 +3,7 @@
 	"Type" "ITEM_VERT_DOOR"
 	"Editor"
 	{
+		"SubTypeProperty" "CubeType"
 		"SubType"
 		{
 			"Name" "Vertical Door"
@@ -23,24 +24,85 @@
 				"SOUND_DELETED" "P2Editor.RemoveOther"
 			}
 		}
+		"SubType"
+		{
+			"Name" "Vertical Door (Glass)"
+			"Model"
+			{
+				"ModelName" "bee2/konclan/vert_door/vert_door_editor.3ds"
+			}
+			"Palette"
+			{
+				"Tooltip" "VERTICAL DOOR GLASS"
+				"Image" "palette/konclan/vertical_door.png"
+			}
+			"Sounds"
+			{
+				"SOUND_CREATED" "P2Editor.PlaceOther"
+				"SOUND_EDITING_ACTIVATE" "P2Editor.ExpandOther"
+				"SOUND_EDITING_DEACTIVATE" "P2Editor.CollapseOther"
+				"SOUND_DELETED" "P2Editor.RemoveOther"
+			}
+		}
+		"SubType"
+		{
+			"Name" "Vertical Door (Grate)"
+			"Model"
+			{
+				"ModelName" "bee2/konclan/vert_door/vert_door_editor.3ds"
+			}
+			"Palette"
+			{
+				"Tooltip" "VERTICAL DOOR GRATE"
+				"Image" "palette/konclan/vertical_door.png"
+			}
+			"Sounds"
+			{
+				"SOUND_CREATED" "P2Editor.PlaceOther"
+				"SOUND_EDITING_ACTIVATE" "P2Editor.ExpandOther"
+				"SOUND_EDITING_DEACTIVATE" "P2Editor.CollapseOther"
+				"SOUND_DELETED" "P2Editor.RemoveOther"
+			}
+		}
+		"SubType"
+		{
+			"Name" "NONE"
+			"Model"
+			{
+				"ModelName" "bee2/konclan/vert_door/vert_door_editor.3ds"
+			}
+		}
+		"SubType"
+		{
+			"Name" "NONE"
+			"Model"
+			{
+				"ModelName" "bee2/konclan/vert_door/vert_door_editor.3ds"
+			}
+		}
 		"MovementHandle" "HANDLE_8_POSITIONS"
 	}
 	"Properties"
 	{
+		"CubeType"
+			{
+			"DefaultValue"	"0"
+			"Index"			"1"
+			}
 		"StartOpen"
 		{
 			"DefaultValue" "1"
-			"Index" "1"
+			"Index" "2"
 		}
 		"ConnectionCount"
 		{
 			"DefaultValue" "0"
-			"Index" "2"
+			"Index" "3"
 		}
 		"StartEnabled"
 		{
 			"DefaultValue" "1"
-			"Index" "3"
+			"Index" "4"
 		}
 	}
 	"Exporting"

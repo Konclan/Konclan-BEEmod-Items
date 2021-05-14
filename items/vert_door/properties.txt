@@ -13,6 +13,9 @@
 	"ent_count" "2"
 	"Icon"
 	{
+		"all" "konclan/vertical_door.png"
 		"0" "konclan/vertical_door.png"
+		"1" "konclan/vertical_door.png"
+		"2" "konclan/vertical_door.png"
 	}
 }

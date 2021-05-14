@@ -51,6 +51,19 @@
 		"Styles"
 		{
 			"BEE2_CLEAN" "vert_door"
+			"BEE2_PORTAL_1"
+			{
+				"Base" "BEE2_CLEAN"
+				"Append"
+				{
+					"Replacements"
+					{
+						"%NORM%"	"instances/BEE2/p1/items/konclan/vert_door/vert_door.vmf"
+						"%GLASS%"	"instances/BEE2/p1/items/konclan/vert_door/vert_door_glass.vmf"
+						"%GRATE%"	"instances/BEE2/p1/items/konclan/vert_door/vert_door_grate.vmf"
+					}
+				}
+			}
 		}
 	}
 }
