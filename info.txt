@@ -72,3 +72,16 @@
     "ID" "TEMP_KONCLAN_VERT_DOOR_CLEAN"
     "File" "vert_door.vmf"
 }
+
+// Super Portal Magnets
+"Item"
+	{
+	"ID" "ITEM_SUPER_PORTAL_MAGNET"
+	"Version"
+		{
+		"Styles"
+			{
+			"BEE2_CLEAN" "super_portal_magnet"
+			}
+		}
+	}
