@@ -1,0 +1,23 @@
+"Properties"
+	{
+	"Authors" "Konclan"
+	"Tags" "Geometry; Lighting"
+	"Description" 
+		{
+		"" "Lightstrips that protrude out of the wall."
+		"" ""
+		"" "* **Warning** Don't place facing into a wall, effects can be undesired."
+		}
+	"all_name" "Protruding Lightstrips"
+	"all_icon" "palette/rendered/clean/konclan/lights/protruding_lights_fancy_group.png"
+	"ent_count" "2"
+	"Icon"
+		{
+		"all" "rendered/clean/konclan/lights/protruding_lights_fancy_group.png"
+		"0" "rendered/clean/konclan/lights/protruding_light_hot.png"
+		"1" "rendered/clean/konclan/lights/protruding_light_froze.png"
+		"2" "rendered/clean/konclan/lights/protruding_light_toxic.png"
+		"3" "rendered/clean/konclan/lights/protruding_light_cosmic.png"
+		"4" "rendered/clean/konclan/lights/protruding_light_charm.png"
+		}
+	}

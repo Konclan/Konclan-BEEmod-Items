@@ -1,0 +1,18 @@
+"Properties"
+	{
+	"Authors" "Konclan"
+	"Tags" "Geometry; Lighting"
+	"Description" "Lightstrips in multiple different color to spice up your test chambers"
+	"all_name" "Colored Lightstrips"
+	"all_icon" "palette/rendered/clean/konclan/lights/lightstrips_group.png"
+	"ent_count" "2"
+	"Icon"
+		{
+		"all" "rendered/clean/konclan/lights/lightstrips_group.png"
+		"0" "rendered/clean/konclan/lights/lightstrip_hot.png"
+		"1" "rendered/clean/konclan/lights/lightstrip_froze.png"
+		"2" "rendered/clean/konclan/lights/lightstrip_toxic.png"
+		"3" "rendered/clean/konclan/lights/lightstrip_cosmic.png"
+		"4" "rendered/clean/konclan/lights/lightstrip_charm.png"
+		}
+	}

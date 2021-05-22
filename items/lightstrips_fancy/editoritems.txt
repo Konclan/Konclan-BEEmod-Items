@@ -1,0 +1,133 @@
+"Item"
+	{
+	"Type" "ITEM_LIGHTSTRIPS_FANCY"
+	"ItemClass" "itemlightstrip"
+	"Editor"
+		{
+		"SubTypeProperty" "CubeType"
+		"SubType"
+			{
+			"Name" "Lightstrip Hot"
+			"Model"
+				{
+				"ModelName" "bee2/konclan/lights/lightstrip_hot.3ds"
+				}
+			"Palette"
+				{
+				"Tooltip" "LIGHTSTRIP HOT"
+				"Image" "palette/rendered/clean/konclan/lights/lightstrip_hot.png"
+				}
+			"Sounds"
+				{
+				"SOUND_CREATED" "P2Editor.PlaceOther"
+				"SOUND_EDITING_ACTIVATE" "P2Editor.ExpandOther"
+				"SOUND_EDITING_DEACTIVATE" "P2Editor.CollapseOther"
+				"SOUND_DELETED" "P2Editor.RemoveOther"
+				}
+			}
+		"SubType"
+			{
+			"Name" "Lightstrip Froze"
+			"Model"
+				{
+				"ModelName" "bee2/konclan/lights/lightstrip_froze.3ds"
+				}
+			"Palette"
+				{
+				"Tooltip" "LIGHTSTRIP FROZE"
+				"Image" "palette/rendered/clean/konclan/lights/lightstrip_froze.png"
+				}
+			"Sounds"
+				{
+				"SOUND_CREATED" "P2Editor.PlaceOther"
+				"SOUND_EDITING_ACTIVATE" "P2Editor.ExpandOther"
+				"SOUND_EDITING_DEACTIVATE" "P2Editor.CollapseOther"
+				"SOUND_DELETED" "P2Editor.RemoveOther"
+				}
+			}
+		"SubType"
+			{
+			"Name" "Lightstrip Toxic"
+			"Model"
+				{
+				"ModelName" "bee2/konclan/lights/lightstrip_toxic.3ds"
+				}
+			"Palette"
+				{
+				"Tooltip" "LIGHTSTRIP TOXIC"
+				"Image" "palette/rendered/clean/konclan/lights/lightstrip_toxic.png"
+				}
+			"Sounds"
+				{
+				"SOUND_CREATED" "P2Editor.PlaceOther"
+				"SOUND_EDITING_ACTIVATE" "P2Editor.ExpandOther"
+				"SOUND_EDITING_DEACTIVATE" "P2Editor.CollapseOther"
+				"SOUND_DELETED" "P2Editor.RemoveOther"
+				}
+			}
+		"SubType"
+			{
+			"Name" "Lightstrip Cosmic"
+			"Model"
+				{
+				"ModelName" "bee2/konclan/lights/lightstrip_cosmic.3ds"
+				}
+			"Palette"
+				{
+				"Tooltip" "LIGHTSTRIP COSMIC"
+				"Image" "palette/rendered/clean/konclan/lights/lightstrip_cosmic.png"
+				}
+			"Sounds"
+				{
+				"SOUND_CREATED" "P2Editor.PlaceOther"
+				"SOUND_EDITING_ACTIVATE" "P2Editor.ExpandOther"
+				"SOUND_EDITING_DEACTIVATE" "P2Editor.CollapseOther"
+				"SOUND_DELETED" "P2Editor.RemoveOther"
+				}
+			}
+		"SubType"
+			{
+			"Name" "Lightstrip Charm"
+			"Model"
+				{
+				"ModelName" "bee2/konclan/lights/lightstrip_charm.3ds"
+				}
+			"Palette"
+				{
+				"Tooltip" "LIGHTSTRIP CHARM"
+				"Image" "palette/rendered/clean/konclan/lights/lightstrip_charm.png"
+				}
+			"Sounds"
+				{
+				"SOUND_CREATED" "P2Editor.PlaceOther"
+				"SOUND_EDITING_ACTIVATE" "P2Editor.ExpandOther"
+				"SOUND_EDITING_DEACTIVATE" "P2Editor.CollapseOther"
+				"SOUND_DELETED" "P2Editor.RemoveOther"
+				}
+			}
+		"MovementHandle" "HANDLE_8_POSITIONS"
+		}
+	"Properties"
+		{
+		"CubeType"
+			{
+			"DefaultValue" "0"
+			"Index" "1"
+			}
+		}
+	"Exporting"
+		{
+		"Instances"
+			{
+			"0"
+				{
+				"Name" "instances/BEE2/clean/items/konclan/lights/stripfancy/lightstrip_common.vmf"
+				"EntityCount" "2"
+				"BrushCount" "5"
+				"BrushSideCount" "30"
+				}
+			}
+		"TargetName" "ls"
+		"Offset" "64 64 64"
+		}
+	}

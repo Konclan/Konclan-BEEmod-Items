@@ -1,0 +1,176 @@
+"Item"
+	{
+	"Type" "ITEM_SQUARE_ERK_LIGHTS_FANCY"
+	"Editor"
+		{	
+		"SubTypeProperty" "CubeType"
+		"SubType"
+			{
+			"Name" "Square Erk Light Hot"
+			"Model"
+				{
+				"ModelName" "bee2/konclan/lights/square_erk_light_hot.3ds"
+				}
+			"Palette"
+				{
+				"Tooltip" "SQUARE ERK LIGHT HOT"
+				"Image" "palette/rendered/clean/konclan/lights/square_erk_light_hot.png"
+				}
+			"Sounds"
+				{
+				"SOUND_CREATED" "P2Editor.PlaceOther"
+				"SOUND_EDITING_ACTIVATE" "P2Editor.ExpandOther"
+				"SOUND_EDITING_DEACTIVATE" "P2Editor.CollapseOther"
+				"SOUND_DELETED" "P2Editor.RemoveOther"
+				}
+			}
+		"SubType"
+			{
+			"Name" "Square Erk Light Froze"
+			"Model"
+				{
+				"ModelName" "bee2/konclan/lights/square_erk_light_froze.3ds"
+				}
+			"Palette"
+				{
+				"Tooltip" "SQUARE ERK LIGHT FROZE"
+				"Image" "palette/rendered/clean/konclan/lights/square_erk_light_froze.png"
+				}
+			"Sounds"
+				{
+				"SOUND_CREATED" "P2Editor.PlaceOther"
+				"SOUND_EDITING_ACTIVATE" "P2Editor.ExpandOther"
+				"SOUND_EDITING_DEACTIVATE" "P2Editor.CollapseOther"
+				"SOUND_DELETED" "P2Editor.RemoveOther"
+				}
+			}
+		"SubType"
+			{
+			"Name" "Square Erk Light Toxic"
+			"Model"
+				{
+				"ModelName" "bee2/konclan/lights/square_erk_light_toxic.3ds"
+				}
+			"Palette"
+				{
+				"Tooltip" "SQUARE ERK LIGHT TOXIC"
+				"Image" "palette/rendered/clean/konclan/lights/square_erk_light_toxic.png"
+				}
+			"Sounds"
+				{
+				"SOUND_CREATED" "P2Editor.PlaceOther"
+				"SOUND_EDITING_ACTIVATE" "P2Editor.ExpandOther"
+				"SOUND_EDITING_DEACTIVATE" "P2Editor.CollapseOther"
+				"SOUND_DELETED" "P2Editor.RemoveOther"
+				}
+			}
+		"SubType"
+			{
+			"Name" "Square Erk Light Cosmic"
+			"Model"
+				{
+				"ModelName" "bee2/konclan/lights/square_erk_light_cosmic.3ds"
+				}
+			"Palette"
+				{
+				"Tooltip" "SQUARE ERK LIGHT COSMIC"
+				"Image" "palette/rendered/clean/konclan/lights/square_erk_light_cosmic.png"
+				}
+			"Sounds"
+				{
+				"SOUND_CREATED" "P2Editor.PlaceOther"
+				"SOUND_EDITING_ACTIVATE" "P2Editor.ExpandOther"
+				"SOUND_EDITING_DEACTIVATE" "P2Editor.CollapseOther"
+				"SOUND_DELETED" "P2Editor.RemoveOther"
+				}
+			}
+		"SubType"
+			{
+			"Name" "Square Erk Light Charm"
+			"Model"
+				{
+				"ModelName" "bee2/konclan/lights/square_erk_light_charm.3ds"
+				}
+			"Palette"
+				{
+				"Tooltip" "SQUARE ERK LIGHT FROZE"
+				"Image" "palette/rendered/clean/konclan/lights/square_erk_light_charm.png"
+				}
+			"Sounds"
+				{
+				"SOUND_CREATED" "P2Editor.PlaceOther"
+				"SOUND_EDITING_ACTIVATE" "P2Editor.ExpandOther"
+				"SOUND_EDITING_DEACTIVATE" "P2Editor.CollapseOther"
+				"SOUND_DELETED" "P2Editor.RemoveOther"
+				}
+			}
+		"MovementHandle" "HANDLE_4_DIRECTIONS"
+		"DesiredFacing" "DESIRES_UP"
+		}
+	"Properties"
+		{
+		"CubeType"
+			{
+			"DefaultValue" "0"
+			"Index" "1"
+			}
+		}
+	"Exporting"
+		{
+		"Instances"
+			{
+			"0"
+				{
+				"Name" "instances/BEE2/clean/items/konclan/lights/erk/square_erk_light_fancy_common.vmf"
+				"EntityCount" "2"
+				"BrushCount" "6"
+				"BrushSideCount" "36"
+				}
+			}
+		"TargetName" "sqlight"
+		"Offset" "64 64 64"
+		"OccupiedVoxels"
+			{
+			"SurfaceVolume"
+				{
+				"Pos" "0 0 0"
+				"SubPos1" "1 1 0"
+				"SubPos2" "2 2 0"
+				}
+			}
+		"EmbeddedVoxels"
+			{
+			"Voxel"
+				{
+				"Pos" "0 0 0"
+				}
+			}
+		"EmbedFace"
+			{
+			"Solid"
+				{
+				"Center" "64 16 128"
+				"Dimensions" "128 32 4"
+				"Grid" "4x4"
+				}
+			"Solid"
+				{
+				"Center" "64 112 128"
+				"Dimensions" "128 32 4"
+				"Grid" "4x4"
+				}
+			"Solid"
+				{
+				"Center" "16 64 128"
+				"Dimensions" "32 64 4"
+				"Grid" "4x4"
+				}
+			"Solid"
+				{
+				"Center" "112 64 128"
+				"Dimensions" "32 64 4"
+				"Grid" "4x4"
+				}
+			}
+		}
+	}

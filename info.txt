@@ -2,7 +2,20 @@
 "Name" "Konclan's Custom Items"
 "Desc" "All of Konclan's items in one package."
 
-// Lights
+// Lightstrips
+"Item"
+	{
+	"ID" "ITEM_LIGHTSTRIPS_FANCY"
+	"Version"
+		{
+		"Styles"
+			{
+			"BEE2_CLEAN" "lightstrips_fancy"
+			}
+		}
+	}
+
+// Erk Strip Lights
 "Item"
 	{
 	"ID" "ITEM_STRIP_ERK_LIGHTS"
@@ -14,6 +27,20 @@
 			}
 		}
 	}
+
+"Item"
+	{
+	"ID" "ITEM_STRIP_ERK_LIGHTS_FANCY"
+	"Version"
+		{
+		"Styles"
+			{
+			"BEE2_CLEAN" "strip_erk_lights_fancy"
+			}
+		}
+	}
+	
+// Erk Square Lights
 "Item"
 	{
 	"ID" "ITEM_SQUARE_ERK_LIGHTS"
@@ -25,6 +52,20 @@
 			}
 		}
 	}
+
+"Item"
+	{
+	"ID" "ITEM_SQUARE_ERK_LIGHTS_FANCY"
+	"Version"
+		{
+		"Styles"
+			{
+			"BEE2_CLEAN" "square_erk_lights_fancy"
+			}
+		}
+	}
+
+// Protruding Lights
 "Item"
 	{
 	"ID" "ITEM_PROTRUDING_LIGHTS"
@@ -36,6 +77,19 @@
 			}
 		}
 	}
+
+"Item"
+	{
+	"ID" "ITEM_PROTRUDING_LIGHTS_FANCY"
+	"Version"
+		{
+		"Styles"
+			{
+			"BEE2_CLEAN" "protruding_lights_fancy"
+			}
+		}
+	}
+
 "BrushTemplate"
 	{
 	"ID"   "BEE2_PROTRUDING_LIGHT_TILE"
