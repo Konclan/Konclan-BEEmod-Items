@@ -93,7 +93,7 @@
 			}
 		}
 		"Offset"            "64 64 64"
-		"TargetName"        "pmagnet"
+		"TargetName"        "spmagnet"
 		"Inputs"
 		{
 			"BEE2"

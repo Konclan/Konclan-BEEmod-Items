@@ -1,8 +1,8 @@
 versioninfo
 {
 	"editorversion" "400"
-	"editorbuild" "8874"
-	"mapversion" "47"
+	"editorbuild" "8952"
+	"mapversion" "52"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -80,7 +80,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "47"
+	"mapversion" "52"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -2756,14 +2756,13 @@ entity
 	"detail_auto_visgroup" "0"
 	"discard_brushes" "0"
 	"is_scaling" "0"
-	"realign_faces" "3 1 4 2 6"
+	"realign_faces" "3 1 4 2 6 336 330 334 333 335 329 328 340 343 341 347 339 342 348 344 264 258 252 246 240 234 222 228 286 291 327 346"
 	"temp_type" "default"
 	"template_id" "TEMP_KONCLAN_VERT_DOOR_CLEAN"
 	"origin" "0 0 0"
 	editor
 	{
 		"color" "220 30 220"
-		"visgroupid" "22"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 500]"
