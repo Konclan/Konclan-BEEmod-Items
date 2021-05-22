@@ -1,0 +1,17 @@
+"Properties"
+{
+	"Authors" "Konclan"
+	"Tags" "Portal 2; Test Elements"
+	"Description" 
+	{
+		"" "Lightbridge that protrudes out of the wall."
+		"" ""
+		"" "* **Warning** Don't place facing into a wall, effects can be undesired."
+		"" "* **Start Reversed** flips the direction of the protruding lightbridge."
+	}
+	"ent_count" "2"
+	"Icon"
+	{
+		"0" "konclan/protruding_lightbridge.png"
+	}
+}

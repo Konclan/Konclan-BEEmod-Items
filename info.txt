@@ -85,3 +85,22 @@
 			}
 		}
 	}
+
+// Protruding Lightbridge
+"Item"
+	{
+	"ID" "ITEM_PROTRUDING_LIGHTBRIDGE"
+	"Version"
+		{
+		"Styles"
+			{
+			"BEE2_CLEAN" "protruding_lightbridge"
+			}
+		}
+	}
+	
+"BrushTemplate"
+    {
+    "ID" "TEMP_KON_BRIDGE_BLOCK_CLEAN"
+    "File" "protruding_lightbridge.vmf"
+    }
