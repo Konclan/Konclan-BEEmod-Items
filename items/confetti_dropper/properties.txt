@@ -1,0 +1,11 @@
+"Properties"
+{
+	"Authors" "Konclan"
+	"Tags" "Geometry"
+	"Description" "A dropper that dispenses confetti"
+	"ent_count" "2"
+	"Icon"
+	{
+		"0" "konclan/confetti_dropper.png"
+	}
+}

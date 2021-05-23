@@ -117,7 +117,7 @@
 				"BrushSideCount" "30"
 			}
 		}
-		"TargetName" "kon_vd"
+		"TargetName" "vtdr"
 		"Offset" "64 64 64"
 		"OccupiedVoxels"
 		{

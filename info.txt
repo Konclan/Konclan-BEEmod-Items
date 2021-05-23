@@ -158,3 +158,22 @@
     "ID" "TEMP_KON_BRIDGE_BLOCK_CLEAN"
     "File" "protruding_lightbridge.vmf"
     }
+	
+// Confetti Dropper
+"Item"
+	{
+	"ID" "ITEM_CONFETTI_DROPPER"
+	"Version"
+		{
+		"Styles"
+			{
+			"BEE2_CLEAN" "confetti_dropper"
+			}
+		}
+	}
+
+"BrushTemplate"
+{
+    "ID" "TEMP_KONCLAN_CONFETTI_DROPPER_CAP_CLEAN"
+    "File" "confetti_dropper_cap.vmf"
+}
