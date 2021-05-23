@@ -6,6 +6,8 @@
 		{
 		"" "Lightstrips that protrude out of the wall."
 		"" ""
+		"" "* **Start Reversed** flips the direction of the light."
+		"" ""
 		"" "* **Warning** Don't place facing into a wall, effects can be undesired."
 		}
 	"all_name" "Protruding Lightstrips"
