@@ -12,7 +12,7 @@
 		"" "* 4s: Right piece"
 		}
 	"all_name" "STRIP ERK LIGHTS"
-	"all_icon" "palette/konclan/vertical_door.png"
+	"all_icon" "palette/rendered/clean/konclan/lights/strip_erk_lights_group.png"
 	"ent_count" "2"
 	"Icon"
 		{
