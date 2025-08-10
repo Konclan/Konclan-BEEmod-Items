@@ -1,5 +1,5 @@
 
-# Version (Dev)
+# Version (1.0.3)
 * Removed broken vertical door all icon property.
 * Added the source to all available resources.
 * Add changelog.
