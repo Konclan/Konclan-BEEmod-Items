@@ -2,7 +2,8 @@
 # Version (Dev)
 * Removed broken vertical door all icon property.
 * Added the source to all available resources.
-* Add changelog
+* Add changelog.
+* Add a guide for the erk light strips editor model. 
 
 # Version 1.0.2
 * Removed brush template definitions since BEEmod no longer requires them.
