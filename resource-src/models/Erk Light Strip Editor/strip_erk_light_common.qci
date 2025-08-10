@@ -1,0 +1,31 @@
+$bodygroup "body"
+{
+	studio "strip_erk_light_reference.smd"
+}
+
+$surfaceprop "default"
+
+$contents "solid"
+
+$cdmaterials "models\props_map_editor\bee2\konclan\lights\"
+
+$sequence "idle" {
+	"anims\idle.smd"
+	fadein 0.2
+	fadeout 0.2
+	fps 30
+}
+
+$sequence "explodeOut" {
+	"anims\explodeOut.smd"
+	fadein 0.2
+	fadeout 0.2
+	fps 30
+}
+
+$sequence "explodeIn" {
+	"anims\explodeIn.smd"
+	fadein 0.2
+	fadeout 0.2
+	fps 30
+}
