@@ -1,4 +1,4 @@
-$ModelName "props_map_editor/bee2/konclan/super_portal_magnet.mdl"
+$ModelName "props_map_editor/bee2/konclan/super_portal_magnet/super_portal_magnet.mdl"
 
 $BodyGroup "Body"
 {
