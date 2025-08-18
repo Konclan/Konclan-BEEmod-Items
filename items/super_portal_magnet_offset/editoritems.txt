@@ -1,20 +1,20 @@
 "Item"
 {
-	"Type"      "ITEM_SUPER_PORTAL_MAGNET"
+	"Type"      "ITEM_SUPER_PORTAL_MAGNET_OFFSET"
 	"Editor"
 	{
 		"SubTypeProperty" "StartReversed"
 		"SubType"
 		{
-			"Name"          "Super Portal Magnet"
+			"Name"          "Super Portal Magnet Offset"
 			"Model"
 			{
-				"ModelName"  "bee2/konclan/super_portal_magnet/super_portal_magnet.3ds"
+				"ModelName"  "bee2/konclan/super_portal_magnet/super_portal_magnet_offset.3ds"
 			}
 			"Palette"
 			{
-				"Tooltip"       "SUPER PORTAL MAGNET"
-				"Image"         "palette/konclan/super_portal_magnet.vtf"
+				"Tooltip"       "SUPER PORTAL MAGNET OFFSET"
+				"Image"         "palette/konclan/super_portal_magnet_offset.vtf"
 			}
 			"Sounds"
 			{
@@ -26,10 +26,10 @@
 		}
 		"SubType"
 		{
-			"Name"          "Super Portal Magnet"
+			"Name"          "Super Portal Magnet Offset"
 			"Model"
 			{
-				"ModelName"  "bee2/konclan/super_portal_magnet/super_portal_magnet_rev.3ds"
+				"ModelName"  "bee2/konclan/super_portal_magnet/super_portal_magnet_offset_rev.3ds"
 			}
 			"Sounds"
 			{
@@ -86,7 +86,7 @@
 		{
 			"0"
 			{
-				"Name"          "instances/BEE2/logic/items/konclan/super_portal_magnet/super_placement_helper.vmf"
+				"Name"          "instances/BEE2/logic/items/konclan/super_portal_magnet/super_placement_helper_offset.vmf"
 				"EntityCount"       "1"
 				"BrushCount"        "0"
 				"BrushSideCount"    "0"
@@ -190,3 +190,4 @@
 		}
 	}
 }
+

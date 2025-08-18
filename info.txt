@@ -142,6 +142,17 @@
 			}
 		}
 	}
+"Item"
+	{
+	"ID" "ITEM_SUPER_PORTAL_MAGNET_OFFSET"
+	"Version"
+		{
+		"Styles"
+			{
+			"BEE2_CLEAN" "super_portal_magnet_offset"
+			}
+		}
+	}
 
 // Protruding Lightbridge
 "Item"
