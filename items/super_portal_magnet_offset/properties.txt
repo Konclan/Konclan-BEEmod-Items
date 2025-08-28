@@ -9,11 +9,11 @@
 		"" ""
 		"" ""
 		"" "* __Cube Type__ selects the height of the magnet in 1/4 block increments so that the magnet can be placed under partial blocks or 1/4 wall items and the magnet will transfer to the top of the block.  Default cube type of Standard results in a magnet placed directly on the face it is attached to.  Companion = 1/4, reflective = 1/2, Sphere = 3/4, Franken = 1 block above the surface the magnet is attached to." 
-		"" "*  Use __Timer__ to adjust the radius of magnet. Default is infinite and will result in a magnet that completely fills one square.  Other values result in a radius that is 5X the value of the timer.  E.g. a timer value of 6 equals a radius of 30 (diameter of 60) and will fit inside a 1/2 square."  
+		"" "*  Use __Timer__ to adjust the radius of magnet. Default is infinite and will result in a magnet that completely fills one square.  Other values result in a radius that is 5X the value of the timer.  E.g. a timer value of 6 equals a radius of 30 (diameter of 60) and will fit inside a 1/2 square. All values are customizable in the __Style/Item Properties__ panel."
 		"" "* If __Start Enabled__ is checked, the portal magnet will start activated."
 		"" "* If __Start Deployed__ is checked this forces the portal orientations to match the item.  If unchecked, the portal will forced to the center of the magnet but will be able to rotate on floor and ceiling surfaces to match the orientation of the player"		
 		"" "* If __Start Reversed__ is checked, the Portal aligned to it be rotated to the opposite direction."
-		"" "* __Start Active__ gives does nothing unless you change the 5 additional positions that can be customized within the config file."
+		"" "* If __Start Active__ is checked, the __Cube Type__ offsets change to use customizable options in the __Style/Item Properties__ panel."
 		}
 	"Ent_count" "1"
 	}

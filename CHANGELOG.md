@@ -1,5 +1,9 @@
+# Version 1.0.4
+* Update Super Portal Magnet editor model and icon
+* Add Super Portal Magnet Offset item
+* Add config options to the Super Portal Magnets in the Style/Item Properties menu
 
-# Version (1.0.3)
+# Version 1.0.3
 * Removed broken vertical door all icon property.
 * Added the source to all available resources.
 * Add changelog.
