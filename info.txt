@@ -182,13 +182,6 @@
 		}
 	}
 
-// Definition no longer required
-//"BrushTemplate"
-//	{
-//	"ID"   "BEE2_PROTRUDING_LIGHT_TILE"
-//	"File" "protruding_light.vmf"
-//	}
-
 // Vertical Doors
 "Item"
 {
@@ -214,13 +207,6 @@
 		}
 	}
 }
-
-// Definition no longer required
-//"BrushTemplate"
-//	{
-//	"ID" "TEMP_KONCLAN_VERT_DOOR_CLEAN"
-//	"File" "vert_door.vmf"
-//	}
 
 // Super Portal Magnets
 "Item"
@@ -259,13 +245,6 @@
 		}
 	}
 
-// Definition no longer required
-//"BrushTemplate"
-//	{
-//	"ID" "TEMP_KON_BRIDGE_BLOCK_CLEAN"
-//	"File" "protruding_lightbridge.vmf"
-//	}
-	
 // Confetti Dropper
 "Item"
 	{
@@ -279,9 +258,15 @@
 		}
 	}
 
-// Definition no longer required
-//"BrushTemplate"
-//	{
-//	"ID" "TEMP_KONCLAN_CONFETTI_DROPPER_CAP_CLEAN"
-//	"File" "confetti_dropper_cap.vmf"
-//	}
+// Grating panel
+"Item"
+	{
+	"ID" "ITEM_PANEL_GRATING"
+	"Version"
+		{
+		"Styles"
+			{
+			"BEE2_CLEAN"	"grating_pan"
+			}
+		}
+	}

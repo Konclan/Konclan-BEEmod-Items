@@ -1,4 +1,5 @@
 # Version 1.0.4
+* Add grating panel item
 * Update Super Portal Magnet editor model and icon
 * Add Super Portal Magnet Offset item
 * Add config options to the Super Portal Magnets in the Style/Item Properties menu
